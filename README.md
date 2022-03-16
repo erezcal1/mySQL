@@ -1,5 +1,5 @@
 # mySQL
-# Notions
+### Notions
 
 - DB - a collection on tables
 
