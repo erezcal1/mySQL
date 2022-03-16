@@ -82,8 +82,8 @@ def add(a, b):
 
 | Name     | Email          |
 | -------- | -------------- |
-| Jone Doe | john@gmail.com |
-| Jone Doe | john@gmail.com |
+| John Doe | john@gmail.com |
+| John Doe | john@gmail.com |
 
 <!-- Task List -->
 
