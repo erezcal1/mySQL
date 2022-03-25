@@ -154,6 +154,7 @@ FROM sakila.film;
 - %A end with the a letter
 - %A% contains the a letter
 - A%A start and finish with the a letter
+- if we are looking for specific letters we can use \_ and the letter or amount of letter
 
 ```sql
 SELECT * FROM sakila.film WHERE title LIKE '%A%';
